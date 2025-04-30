@@ -3,7 +3,7 @@ This repository contains a collection of Exploratory Data Analysis (EDA) project
 Each project includes detailed analysis steps using popular Python libraries such as Pandas, Matplotlib, and Seaborn.
 
 ## 🧰 Tools & Libraries
-Python: Core programming language
+Python: Core programming language <br>
 Pandas: Data manipulation and analysis
 Matplotlib & Seaborn: Data visualization
 Jupyter Notebooks: Interactive analysis environment
