@@ -4,9 +4,9 @@ Each project includes detailed analysis steps using popular Python libraries suc
 
 ## 🧰 Tools & Libraries
 Python: Core programming language <br>
-Pandas: Data manipulation and analysis
-Matplotlib & Seaborn: Data visualization
-Jupyter Notebooks: Interactive analysis environment
+Pandas: Data manipulation and analysis<br>
+Matplotlib & Seaborn: Data visualization<br>
+Jupyter Notebooks: Interactive analysis environment<br>
 
 ## 📑 Contributing
 Feel free to contribute by forking the repository, adding new analyses, or improving existing projects. Pull requests are welcome!
